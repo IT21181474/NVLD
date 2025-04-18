@@ -1,0 +1,15 @@
+bcrypt
+certifi
+fastapi
+google-cloud-vision
+google-auth
+joblib
+motor
+numpy
+pandas
+pydantic
+torch
+transformers
+uvicorn
+gunicorn
+scikit-learn
